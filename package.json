@@ -10,8 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/5line5/frontend-project-lvl1.git"
   },
+  "type": "module",
   "author": "sAlchemist",
   "license": "ISC",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "bugs": {
     "url": "https://github.com/5line5/frontend-project-lvl1/issues"
   },
